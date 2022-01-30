@@ -30,7 +30,7 @@ put in an image/logo/banner
 
 :tulip: [Research, Independent Studies, and Projects][Research, Independent Studies, and Projects]
 
-:camera: [In the Press][In the Press]
+:camera: [Press][Press]
 
 :link: [LinkedIn][LinkedIn]
 
@@ -38,7 +38,7 @@ put in an image/logo/banner
 [reading]: https://oliviagallucci.com/reading-list/
 [RITSEC]: https://www.ritsec.club/
 [honors]: https://www.rit.edu/academicaffairs/honors/
-[In the Press]: https://oliviagallucci.com/in-the-press/
+[Press]: https://oliviagallucci.com/in-the-press/
 [Resume]: https://oliviagallucci.com/resume/
 [Research, Independent Studies, and Projects]: https://oliviagallucci.com/research/
 [Hacking Competitions and Presentations]: https://oliviagallucci.com/hacking/
