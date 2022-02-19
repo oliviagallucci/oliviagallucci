@@ -34,6 +34,14 @@ put in an image/logo/banner
 
 :link: [LinkedIn][LinkedIn]
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagallucci&show_icons=true&theme=cobalt&bg_color=0a0c10" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviagallucci&layout=compact&theme=cobalt&bg_color=0a0c10&hide=DIGITAL%20command%20language" />
+</a>
+
 [blogging]: https://oliviagallucci.com/ 
 [reading]: https://oliviagallucci.com/reading-list/
 [RITSEC]: https://www.ritsec.club/
