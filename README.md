@@ -16,9 +16,9 @@ put in an image/logo/banner
 
 <!--
 - 🤔 I’m looking for help with ... semester finding reasearch positions 
--->
 
 :cherry_blossom: How to reach me: gallucci[at]protonmail.com
+-->
 
 :sailboat: Interests: Linux, sailing, [reading][reading], offensive security, and [blogging][blogging].
 
