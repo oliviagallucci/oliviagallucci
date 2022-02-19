@@ -20,7 +20,7 @@ put in an image/logo/banner
 
 :cherry_blossom: How to reach me: gallucci[at]protonmail.com
 
-:sailboat: Interests: Linux, sailing, [reading][reading], penetration testing, malware development, and [blogging][blogging].
+:sailboat: Interests: Linux, sailing, [reading][reading], offensive security, and [blogging][blogging].
 
 ### Links
 
@@ -28,7 +28,7 @@ put in an image/logo/banner
 
 :airplane: [Hacking Competitions and Presentations][Hacking Competitions and Presentations]
 
-:tulip: [Research, Independent Studies, and Projects][Research, Independent Studies, and Projects]
+:tulip: [Research and Projects][Research and Projects]
 
 :camera: [Press][Press]
 
@@ -48,6 +48,6 @@ put in an image/logo/banner
 [honors]: https://www.rit.edu/academicaffairs/honors/
 [Press]: https://oliviagallucci.com/in-the-press/
 [Resume]: https://oliviagallucci.com/resume/
-[Research, Independent Studies, and Projects]: https://oliviagallucci.com/research/
+[Research and Projects]: https://oliviagallucci.com/research/
 [Hacking Competitions and Presentations]: https://oliviagallucci.com/hacking/
 [LinkedIn]: https://www.linkedin.com/in/olivia-gallucci/
