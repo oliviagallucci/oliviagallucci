@@ -10,7 +10,7 @@ https://github.com/ikatyang/emoji-cheat-sheet
 put in an image/logo/banner 
 -->
 
-:mortar_board: I am a second-year, [honors][honors] student at Rochester Institute of Technology. I am double-majoring in Computing Security and Computer Science. I am also minoring in Free and Open Source Software (FOSS) and Free Culture. 
+:mortar_board: [Honors][Honors] Computing Security and Computer Science at Rochester Institute of Technology. I am also minoring in Free and Open Source Software (FOSS) and Free Culture. 
 
 :chart_with_upwards_trend: I am looking to collaborate on [RITSEC][RITSEC] presentations! Please reach out to me if you are interested in co-presenting. 
 
@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/joeljose350/joeljose350/main/README.md
 [blogging]: https://oliviagallucci.com/ 
 [reading]: https://oliviagallucci.com/reading-list/
 [RITSEC]: https://www.ritsec.club/
-[honors]: https://www.rit.edu/academicaffairs/honors/
+[Honors]: https://www.rit.edu/academicaffairs/honors/
 [Press]: https://oliviagallucci.com/in-the-press/
 [Resume]: https://oliviagallucci.com/resume/
 [Research and Projects]: https://oliviagallucci.com/research/
