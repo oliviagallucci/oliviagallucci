@@ -8,9 +8,12 @@ https://github.com/ikatyang/emoji-cheat-sheet
 
 <!--
 put in an image/logo/banner 
+
+I am also minoring in Free and Open Source Software (FOSS) and Free Culture. 
+
 -->
 
-:mortar_board: [Honors][Honors] Computing Security and Computer Science at Rochester Institute of Technology. I am also minoring in Free and Open Source Software (FOSS) and Free Culture. 
+:mortar_board: [Honors][Honors] Security + CS @ RIT
 
 :chart_with_upwards_trend: I am looking to collaborate on [RITSEC][RITSEC] presentations! Please reach out to me if you are interested in co-presenting. 
 
