@@ -36,13 +36,27 @@ put in an image/logo/banner
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagallucci&show_icons=true&theme=cobalt&bg_color=0a0c10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagallucci&count_private=true&show_icons=true&theme=cobalt&bg_color=0a0c10" />
 </a>
+
+
+
 <!--
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviagallucci&layout=compact&theme=cobalt&bg_color=0a0c10&hide=DIGITAL%20command%20language" />
+  <img align="center" src="https://github-readme-stats-oliviagallucci.vercel.app/api/top-langs/?username=oliviagallucci&layout=compact&theme=cobalt&bg_color=0a0c10&count_private=true&langs_count=3" />
 </a>
+
+https://github-readme-stats.vercel.app/api/pin
+
+[![My programming language usage statistics](https://.vercel.app/api/top-langs?username=oliviagallucci&theme=dark&hide_border=true&layout=compact&langs_count=10&hide=c)](https://github.com/oliviagallucci)
+
+https://github.com/joeljose350/github-readme-stats 
+
+https://raw.githubusercontent.com/joeljose350/joeljose350/main/README.md
 -->
+
+
 
 [blogging]: https://oliviagallucci.com/ 
 [reading]: https://oliviagallucci.com/reading-list/
