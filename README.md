@@ -15,7 +15,7 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 
 :mortar_board: [Honors][Honors] Security + CS @ RIT
 
-:chart_with_upwards_trend: I am looking to collaborate on [RITSEC][RITSEC] presentations! Please reach out to me if you are interested in co-presenting. 
+:chart_with_upwards_trend: Reach out if you want to collaborate on [RITSEC][RITSEC] presentations!
 
 <!--
 - 🤔 I’m looking for help with ... semester finding reasearch positions 
