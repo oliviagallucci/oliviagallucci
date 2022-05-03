@@ -21,13 +21,13 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 - 🤔 I’m looking for help with ... semester finding reasearch positions 
 
 :cherry_blossom: How to reach me: gallucci[at]protonmail.com
+
+:hibiscus: [Resume][Resume]
 -->
 
 :sailboat: Interests: Linux, sailing, [reading][reading], offensive security, and [blogging][blogging].
 
 ### Links
-
-:hibiscus: [Resume][Resume]
 
 :airplane: [Hacking Competitions and Presentations][Hacking Competitions and Presentations]
 
