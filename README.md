@@ -30,13 +30,17 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 
 :tulip: [Research and Projects][Research and Projects]
 
+:camera:
+
+:link:
+
 -->
 
 ### Links
 
-:camera: [Press][Press]
+:hibiscus: [Press][Press]
 
-:link: [LinkedIn][LinkedIn]
+:cherry_blossom: [LinkedIn][LinkedIn]
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
