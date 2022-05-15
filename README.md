@@ -13,7 +13,7 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 
 -->
 
-:mortar_board: [Honors][Honors] Security + CS @ RIT
+:mortar_board: [Honors][Honors] Security + CS Student @ RIT
 
 :chart_with_upwards_trend: Reach out if you want to collaborate on [RITSEC][RITSEC] presentations!
 
@@ -23,9 +23,9 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 :cherry_blossom: How to reach me: gallucci[at]protonmail.com
 
 :hibiscus: [Resume][Resume]
--->
 
 :sailboat: Interests: Linux, sailing, [reading][reading], offensive security, and [blogging][blogging].
+-->
 
 ### Links
 
