@@ -25,13 +25,14 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 :hibiscus: [Resume][Resume]
 
 :sailboat: Interests: Linux, sailing, [reading][reading], offensive security, and [blogging][blogging].
--->
-
-### Links
 
 :airplane: [Hacking Competitions and Presentations][Hacking Competitions and Presentations]
 
 :tulip: [Research and Projects][Research and Projects]
+
+-->
+
+### Links
 
 :camera: [Press][Press]
 
