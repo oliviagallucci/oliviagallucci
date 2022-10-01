@@ -1,21 +1,18 @@
 ### 🌸👋🏻 Hi there!
 
+:mortar_board: [Honors][Honors] Security + CS Student @ RIT
+
 <!--
+
 **kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.   :notebook: :star2:
 https://github.com/caiyongji/emoji-list#symbols :sailboat: :hibiscus: :brain: :open_book: :white_heart: :black_nib:
 https://github.com/ikatyang/emoji-cheat-sheet
--->
 
-<!--
 put in an image/logo/banner 
 
 I am also minoring in Free and Open Source Software (FOSS) and Free Culture. 
 
--->
 
-:mortar_board: [Honors][Honors] Security + CS Student @ RIT
-
-<!--
 :chart_with_upwards_trend: Reach out if you want to collaborate on [RITSEC][RITSEC] presentations!
 
 - 🤔 I’m looking for help with ... semester finding reasearch positions 
@@ -41,7 +38,6 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 :hibiscus: [Press][Press]
 
 :cherry_blossom: [LinkedIn][LinkedIn]
--->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagallucci&count_private=true&show_icons=true&theme=cobalt&bg_color=0a0c10" />
@@ -49,7 +45,7 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 
 
 
-<!--
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-oliviagallucci.vercel.app/api/top-langs/?username=oliviagallucci&layout=compact&theme=cobalt&bg_color=0a0c10&count_private=true&langs_count=3" />
