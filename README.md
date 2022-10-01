@@ -34,14 +34,14 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 
 :link:
 
--->
+
 
 ### Links
 
 :hibiscus: [Press][Press]
 
 :cherry_blossom: [LinkedIn][LinkedIn]
-
+-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagallucci&count_private=true&show_icons=true&theme=cobalt&bg_color=0a0c10" />
