@@ -1,6 +1,6 @@
 ### 🌸👋🏻 Hi there!
 
-:mortar_board: [Honors][Honors] Security + CS Student @ RIT
+:mortar_board: [Honors][Honors] Security + CS @ RIT '25
 
 <!--
 
