@@ -1,8 +1,9 @@
 ### 🌸👋🏻 Hi there!
 
-:mortar_board: [Honors][Honors] Security + CS @ RIT '25
 
 <!--
+:mortar_board: [Honors][Honors] Security + CS @ RIT '25
+
 
 **kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.   :notebook: :star2:
 https://github.com/caiyongji/emoji-list#symbols :sailboat: :hibiscus: :brain: :open_book: :white_heart: :black_nib:
