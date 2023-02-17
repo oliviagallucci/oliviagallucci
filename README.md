@@ -1,7 +1,26 @@
-### 🌸👋🏻 Hi there!
+<div align="center"><h1>Olivia Gallucci</h1></div>
+
+My name is [Olivia Gallucci][Olivia Gallucci]. I am an offensive security engineer, open source contributor, and freedom culture advocate. 
+
+I am a second-year student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
+
+In my spare time, I enjoy sailing, reading, and blogging. 
+
+
+
+
 
 
 <!--
+# socials 
+
+# lanauges 
+
+
+
+
+## 🌸👋🏻 Hi there!
+
 :mortar_board: [Honors][Honors] Security + CS @ RIT '25
 
 
@@ -45,6 +64,7 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 </a>
 
 
+<div align="center"><h3>Learn more by <a href="https://oliviagallucci.com" target="_blank">visiting oliviagallucci.com</a>.</h3></div>
 
 
 
@@ -63,7 +83,7 @@ https://raw.githubusercontent.com/joeljose350/joeljose350/main/README.md
 
 
 
-[blogging]: https://oliviagallucci.com/ 
+[Olivia Gallucci]: https://oliviagallucci.com/ 
 [reading]: https://oliviagallucci.com/reading-list/
 [RITSEC]: https://www.ritsec.club/
 [Honors]: https://www.rit.edu/academicaffairs/honors/
