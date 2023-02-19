@@ -1,4 +1,4 @@
-<div align="center"><h1>[Olivia Gallucci][Olivia Gallucci]</h1></div>
+<div align="center"><h1>Olivia Gallucci</h1></div>
 
 My name is [Olivia Gallucci][Olivia Gallucci]. I am an offensive security engineer, open source contributor, and freedom culture advocate. 
 
