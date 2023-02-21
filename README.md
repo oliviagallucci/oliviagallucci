@@ -73,11 +73,5 @@ https://raw.githubusercontent.com/joeljose350/joeljose350/main/README.md
 
 
 [Olivia Gallucci]: https://oliviagallucci.com/ 
-[reading]: https://oliviagallucci.com/reading-list/
-[RITSEC]: https://www.ritsec.club/
-[Honors]: https://www.rit.edu/academicaffairs/honors/
 [Press]: https://oliviagallucci.com/in-the-press/
 [Resume]: https://oliviagallucci.com/resume/
-[Research and Projects]: https://oliviagallucci.com/research/
-[Hacking Competitions and Presentations]: https://oliviagallucci.com/hacking/
-[LinkedIn]: https://www.linkedin.com/in/olivia-gallucci/
