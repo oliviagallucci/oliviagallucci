@@ -8,15 +8,10 @@ In my spare time, I enjoy sailing, reading, and blogging.
 
 
 
-
-
-
 <!--
 # socials 
 
 # lanauges 
-
-
 
 
 ## 🌸👋🏻 Hi there!
@@ -28,14 +23,10 @@ In my spare time, I enjoy sailing, reading, and blogging.
 https://github.com/caiyongji/emoji-list#symbols :sailboat: :hibiscus: :brain: :open_book: :white_heart: :black_nib:
 https://github.com/ikatyang/emoji-cheat-sheet
 
-put in an image/logo/banner 
-
-I am also minoring in Free and Open Source Software (FOSS) and Free Culture. 
+put in an image/logo/banner
 
 
 :chart_with_upwards_trend: Reach out if you want to collaborate on [RITSEC][RITSEC] presentations!
-
-- 🤔 I’m looking for help with ... semester finding reasearch positions 
 
 :cherry_blossom: How to reach me: gallucci[at]protonmail.com
 
@@ -50,8 +41,6 @@ I am also minoring in Free and Open Source Software (FOSS) and Free Culture.
 :camera:
 
 :link:
-
-
 
 ### Links
 
