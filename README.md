@@ -16,13 +16,6 @@ In my spare time, I enjoy sailing, reading, and blogging.
 
 ## 🌸👋🏻 Hi there!
 
-:mortar_board: [Honors][Honors] Security + CS @ RIT '25
-
-
-**kawedi/kawedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.   :notebook: :star2:
-https://github.com/caiyongji/emoji-list#symbols :sailboat: :hibiscus: :brain: :open_book: :white_heart: :black_nib:
-https://github.com/ikatyang/emoji-cheat-sheet
-
 put in an image/logo/banner
 
 
@@ -34,19 +27,11 @@ put in an image/logo/banner
 
 :sailboat: Interests: Linux, sailing, [reading][reading], offensive security, and [blogging][blogging].
 
-:airplane: [Hacking Competitions and Presentations][Hacking Competitions and Presentations]
-
-:tulip: [Research and Projects][Research and Projects]
-
 :camera:
 
 :link:
 
 ### Links
-
-:hibiscus: [Press][Press]
-
-:cherry_blossom: [LinkedIn][LinkedIn]
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliviagallucci&count_private=true&show_icons=true&theme=cobalt&bg_color=0a0c10" />
@@ -54,7 +39,6 @@ put in an image/logo/banner
 
 
 <div align="center"><h3>Learn more by <a href="https://oliviagallucci.com" target="_blank">visiting oliviagallucci.com</a>.</h3></div>
-
 
 
 <a href="https://github.com/anuraghazra/convoychat">
