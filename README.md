@@ -1,8 +1,9 @@
-<div align="center"><h1>Olivia Gallucci</h1></div>
+<div align="center"><h1><a href="https://oliviagallucci.com">Olivia Gallucci</a></h1></div>
+<div align="center"><p><i>Offensive Security, Open Source, and Glitter</i></h1></div>
 
-My name is [Olivia Gallucci][Olivia Gallucci]. I am an offensive security engineer, open source contributor, and freedom culture advocate. 
+My name is Olivia Gallucci. I am an offensive security engineer, open source contributor, and freedom culture advocate. 
 
-I am a second-year student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
+I am an undergraduate student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
 
 In my spare time, I enjoy sailing, reading, and blogging. 
 
@@ -36,7 +37,7 @@ put in an image/logo/banner
 
 :chart_with_upwards_trend: Reach out if you want to collaborate on [RITSEC][RITSEC] presentations!
 
-:cherry_blossom: How to reach me: gallucci[at]protonmail.com
+:cherry_blossom: How to reach me: olivia[at]oliviagallucci.com
 
 :hibiscus: [Resume][Resume]
 
