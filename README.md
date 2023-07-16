@@ -7,7 +7,7 @@ I am an undergraduate student at the Rochester Institute of Technology, double-m
 
 In my spare time, I enjoy sailing, reading, and blogging. 
 
-
+<!--
 ## Free(dom) Software 
 > "Free software" means software that respects users' freedom and community. Roughly, it means that the ***users have the freedom to run, copy, distribute, study, change and improve the software***. Thus, "free software" is a matter of liberty, not price. To understand the concept, you should think of "free" as in "free speech," not as in "free beer." We sometimes call it "libre software," borrowing the French or Spanish word for "free" as in freedom, to show we do not mean the software is gratis.
 > 
@@ -24,7 +24,7 @@ In my spare time, I enjoy sailing, reading, and blogging.
 
 Learn more: https://www.gnu.org/philosophy/free-sw.html
 
-<!--
+
 # socials 
 
 # lanauges 
