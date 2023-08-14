@@ -1,7 +1,7 @@
 <div align="center"><h1><a href="https://oliviagallucci.com">Olivia Gallucci</a></h1></div>
 <div align="center"><p><i>Offensive Security, Open Source, and Glitter</i></h1></div>
 
-My name is Olivia Gallucci. I am an offensive security engineer, open source contributor, and freedom culture advocate. 
+I am an offensive security engineer, open source contributor, and freedom culture advocate. 
 
 I am an undergraduate student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
 
