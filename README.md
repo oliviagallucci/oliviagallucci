@@ -8,7 +8,7 @@ In addition, I am an undergraduate student at the Rochester Institute of Technol
 In my spare time, I enjoy sailing, reading, and blogging. 
 
 Want to chat? 
-<a href="https://zcal.co/oliviagallucci" target="_blank">Set up a meeting!</a>
+<a href="https://external.ink?to=/https://zcal.co/oliviagallucci" target="_blank">Set up a meeting!</a>
 
 
 <!--
