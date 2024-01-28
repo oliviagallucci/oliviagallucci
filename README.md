@@ -3,7 +3,7 @@
 
 I am an offensive security engineer, open source contributor, and freedom culture advocate. 
 
-In addition, I am an undergraduate student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
+In addition, I am an undergraduate student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Business Administration_ and _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
 
 In my spare time, I enjoy sailing, reading, and blogging. 
 
