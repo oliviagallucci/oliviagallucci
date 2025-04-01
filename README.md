@@ -1,13 +1,30 @@
 <div align="center"><h1><a href="https://oliviagallucci.com">Olivia Gallucci</a></h1></div>
 <div align="center"><p><i>Offensive Security, Open Source, and Glitter</i></h1></div>
 
+I am an offensive security engineer, open source contributor, and freedom culture advocate. I love macOS internals. In my spare time, I enjoy sailing, reading, and blogging. 
+
+<!--
+
+
+### old one
+
+<div align="center"><h1><a href="https://oliviagallucci.com">Olivia Gallucci</a></h1></div>
+<div align="center"><p><i>Offensive Security, Open Source, and Glitter</i></h1></div>
+
 I am an offensive security engineer, open source contributor, and freedom culture advocate. 
 
 In addition, I am an undergraduate student at the Rochester Institute of Technology, double-majoring in _Cybersecurity_ and _Computer Science_, and minoring in _Business Administration_ and _Open Source Software and Free(dom) Culture_. I rank in the top 1% of my degree program, and plan to graduate in May 2025. 
 
 In my spare time, I enjoy sailing, reading, and blogging. 
 
-<!--
+
+
+
+
+
+
+
+
 ## Free(dom) Software 
 > "Free software" means software that respects users' freedom and community. Roughly, it means that the ***users have the freedom to run, copy, distribute, study, change and improve the software***. Thus, "free software" is a matter of liberty, not price. To understand the concept, you should think of "free" as in "free speech," not as in "free beer." We sometimes call it "libre software," borrowing the French or Spanish word for "free" as in freedom, to show we do not mean the software is gratis.
 > 
