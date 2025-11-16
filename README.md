@@ -1,7 +1,7 @@
 <div align="center"><h1><a href="https://oliviagallucci.com">Olivia Gallucci</a></h1></div>
 <div align="center"><p><i>Offensive Security, Open Source, and Glitter</i></h1></div>
 
-I am an offensive security engineer, open source software advocate, and freedom culture advocate. I love macOS internals. In my spare time, I enjoy sailing, reading, and blogging. 
+I am an offensive security engineer, open source software advocate, and freedom culture enthusiast. I love macOS internals, and security research on Apple products. In my spare time, I enjoy sailing, reading, and blogging. 
 
 <!--
 
