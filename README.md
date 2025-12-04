@@ -3,6 +3,18 @@
 
 I am an offensive security engineer, open source software advocate, and freedom culture enthusiast. I love macOS internals, and security research on Apple products. In my spare time, I enjoy sailing, reading, and blogging. 
 
+## Links 
+Interested in macOS internals, reverse engineering, or open-source tools for exploring obscure systems?
+
+💌 [Newsletter](https://oliviagallucci.com/newsletter/)
+
+📽️ [Presentation Slides](https://oliviagallucci.com/presentations/)
+
+📝 [Blog](https://oliviagallucci.com/blog/)
+
+📺 [YouTube](https://www.youtube.com/@oliviagallucci)
+
+
 <!--
 
 
