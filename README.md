@@ -12,8 +12,6 @@ Interested in macOS internals, reverse engineering, or open-source tools for exp
 
 📝 [Blog](https://oliviagallucci.com/blog/)
 
-📺 [YouTube](https://www.youtube.com/@oliviagallucci)
-
 
 <!--
 
