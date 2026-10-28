@@ -6,9 +6,9 @@ I am an offensive security engineer, open source software advocate, and freedom 
 ## Links 
 Interested in macOS internals, reverse engineering, or open-source tools for exploring obscure systems?
 
-💌 [Newsletter](https://oliviagallucci.com/newsletter/)
+💌 [Publication](https://oliviagallucci.com/newsletter/)
 
-📽️ [Presentation Slides](https://oliviagallucci.com/presentations/)
+📽️ [Talks](https://oliviagallucci.com/presentations/)
 
 📝 [Blog](https://oliviagallucci.com/blog/)
 
